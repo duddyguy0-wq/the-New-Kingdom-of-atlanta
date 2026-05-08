@@ -1,17 +1,18 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+  {
+    "name": "Super Warrior",
+    "unitType": "Melee",
+    "uniqueTo": "The maya",
+    "replaces": "Machine Gun",
+    "movement": 7,
+    "strength": 140,
+    "rangedStrength": 130,
+    "range": 5,
+    "cost": 3500,
+    "requiredTech": "Chemistry",
+    "requiredResource": "Horse",
+	"uniques": ["Icon: [Legion]"],
+    "promotions": ["Logistics", "Blitz", "March", "Indirect Fire", "Medic", "Cover I"],
+    "attackSound": "metalhit"
+  }
 ]
