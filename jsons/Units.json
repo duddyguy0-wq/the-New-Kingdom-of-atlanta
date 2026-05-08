@@ -3,7 +3,7 @@
     "name": "Super Warrior",
     "unitType": "Melee",
     "uniqueTo": "America",
-    "replaces": "Infantry",
+    "replaces": "Machine Gun",
     "movement": 7,
     "strength": 140,
     "rangedStrength": 130,
@@ -11,8 +11,23 @@
     "cost": 3500,
     "requiredTech": "Chemistry",
     "requiredResource": "Horse",
-	"uniques": ["Icon: [Legion]"],
+    "uniques": ["Icon: [Legion]"],
     "promotions": ["Logistics", "Blitz", "March", "Indirect Fire", "Medic", "Cover I"],
     "attackSound": "metalhit"
+  },
+  {
+    "name": "Stealth Reaper",
+    "unitType": "Scout",
+    "uniqueTo": "America",
+    "movement": 10,
+    "strength": 200,
+    "cost": 1000,
+    "uniques": [
+        "Invisble to all units",
+        "Can move after attacking",
+        "Ignores terrain cost",
+        "Icon: [Stealth Bomber]"
+    ],
+    "requiredTech": "Electricity"
   }
 ]
