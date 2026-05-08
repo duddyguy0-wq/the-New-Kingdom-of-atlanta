@@ -2,8 +2,8 @@
   {
     "name": "Super Warrior",
     "unitType": "Melee",
-    "uniqueTo": "The maya",
-    "replaces": "Machine Gun",
+    "uniqueTo": "America",
+    "replaces": "Infantry",
     "movement": 7,
     "strength": 140,
     "rangedStrength": 130,
