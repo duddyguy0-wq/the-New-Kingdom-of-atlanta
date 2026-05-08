@@ -3,11 +3,7 @@
     "name": "America",
     "uniques": [
       "All land units have [+1] Visibility",
-      "[+2] Movement for all land units",
-      "[+200]% Production when constructing [Military] units",
-      "[+100 Gold] from every City",
-      "Pay [0] maintenance for units",
-      "Can buy [Military] units with [Faith]"
+      "Pay [0] maintenance for units"
     ]
   }
 ]
