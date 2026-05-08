@@ -1,1 +1,28 @@
-
+[
+  {
+    "name": "Demigod",
+    "unitType": "Melee",
+    "movement": 10,
+    "strength": 400,
+    "rangedStrength": 250,
+    "range": 3,
+    "cost": 5000,
+    "requiredTech": "Information Era",
+    "uniques": [
+      "[Statue of Zeus] Icon",
+      "Gains [100]% of defeated units' [Strength] as [Culture]",
+      "Gains [100]% of defeated units' [Strength] as [Science]",
+      "All adjacent units get [+20]% Strength",
+      "Heals [50] HP per turn",
+      "Can move after attacking",
+      "Ignores terrain cost",
+      "Pass through impassable tiles",
+      "Withdraws before melee attacks",
+      "Blitz",
+      "Logistics",
+      "March",
+      "Invisible to non-adjacent units",
+      "Nuclear explosion of strength [30] on death"
+    ]
+  }
+]
